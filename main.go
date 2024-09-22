@@ -1,4 +1,4 @@
-package gadget
+package main
 
 func playList(devise)
 
